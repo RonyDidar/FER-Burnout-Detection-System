@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "FER-Based Burnout Detection System"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Saputra
+    given-names: Rizky Johan
+    affiliation: Seoul National University, College of Engineering
+    email: flamablesrizky@gmail.com
+
+version: 1.0.0
+date-released: 2025-09-30
+
+abstract: >
+  A real-time facial emotion recognition (FER) system for detecting and
+  measuring burnout and prolonged stress levels using CNN and LSTM models,
+  validated against standardized psychometric surveys.
+
+keywords:
+  - Facial Emotion Recognition
+  - Burnout Detection
+  - Computer Vision
+  - Deep Learning
+  - CNN
+  - LSTM
+  - Affective Computing
+
+license: MIT
+
+repository-code: https://github.com/rizkysaputradev/FER-Burnout-Detection-System
